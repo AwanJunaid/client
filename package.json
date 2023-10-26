@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://anxious-ox-top-hat.cyclic.app",
+  "proxy": "https://busy-plum-hippo.cyclic.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
