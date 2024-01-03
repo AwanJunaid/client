@@ -68,9 +68,9 @@ const ProductDetails = () => {
       <hr />
       <div className="row container similar-products">
         <h4>Similar Products ➡️</h4>
-        {relatedProducts.length < 1 && (
+        {/* {relatedProducts.length < 1 && (
           <p className="text-center">No Similar Products found</p>
-        )}
+        )} */}
         <div className="d-flex flex-wrap">
           {relatedProducts?.map((p) => (
             <div className="card m-2" key={p._id}>
